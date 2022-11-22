@@ -1,1 +1,3 @@
+git pull
 git add .
+echo 'updated readme' README.md
